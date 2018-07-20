@@ -1,1 +1,3 @@
-# js-lib-starter
+# javascript-sdk
+
+Javascript SDK for lightelligence platform.
